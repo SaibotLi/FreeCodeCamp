@@ -1,2 +1,2 @@
-# FreeCodeCamp
-Here are my solutions for "FreeCodeCamp" projects.
+# FreeCodeCamp - Tribute Page
+Here is my solution for "FreeCodeCamp - Tribute Page" project.
